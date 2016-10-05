@@ -34,6 +34,7 @@ $	sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 $	cd objdir</code></pre>
 3. 运行configure(能根据系统的环境设置一下参数，用于编译)  <pre><code>$ ../configure CXX=g++ --disable-async-updates </code></pre>
    下图为运行configure之后的截图
+
     ![](http://s11.sinaimg.cn/middle/006buDuJzy75o3mIVXc5a&690)
 4. 编译  <pre><code>$	sudo make install</code></pre>
    编译完后文件目录如下($cd .. $ls),能看到include, lib-linux64(对于32位系统，这里是lib-linux)
