@@ -41,7 +41,9 @@ $	cd objdir</code></pre>
 	![](http://s1.sinaimg.cn/middle/006buDuJzy75o3mK0gw10&690)
 5. 记录当前的工作路径（会输出当前所在路径，记下来，待会有用） <pre><code>$	pwd</code></pre>
    这里表示我当前的工作路径为 /root/systemc-2.3.1
+
 	![](http://s10.sinaimg.cn/middle/006buDuJzy75o3RNl0d49&690)
+
 ####编译dol
 
 1. 进入刚刚的dol文件夹，修改build.xml文件。找到下面这段话，就是说上面编译的systemc位置在哪里
@@ -59,7 +61,9 @@ $	cd objdir</code></pre>
     成功结果如图
 
 	![](http://s9.sinaimg.cn/middle/006buDuJzy75o4m9hKUb8&690)
+
 ##Experimental experience
+
 1. Make
  + 在Linux和Ubuntu环境中，make工具主要被用来进行工程编译和程序
  + Makefile文件：描述了整个工程所有文件的编译顺序、编译规则
