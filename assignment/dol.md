@@ -8,7 +8,7 @@
 1. 进入/dol/examples/example2
 2. 使用gedit打开example2.xml
 3. 修改N=3为N=2，如图 
-	![example2.xml](http://s4.sinaimg.cn/middle/006buDuJzy75zvIPqVld3&690)
+	![example2.xml](http://a2.qpic.cn/psb?/V10Juzzw1GQHCb/PJastaXkL8RaEsp07lwjJZcPgDwR505oCoE.UGYKOhc!/b/dNwAAAAAAAAA&bo=hwPBAQAAAAADB2Y!&rf=viewer_4)
 
 ####运行结果
 
@@ -26,7 +26,7 @@
 2. 使用gedit打开square.c
 3. 修改 i = i \* i 为 i = i \* i \* i ，如图
 4. 上次有运行过，修改需要将之前build的文件夹 /dol/bulid/bin/main下的example1 删掉
-	![example2.xml](http://s9.sinaimg.cn/middle/006buDuJzy75zvIPbpSf8&690)
+	![example2.xml](http://a3.qpic.cn/psb?/V10Juzzw1GQHCb/o0AfmHGixP8MxR*eMeaGUvQbDuQgvkpXhhz17zCeb2A!/b/dAoBAAAAAAAA&bo=PwIOAgAAAAADABQ!&rf=viewer_4)
 
 ####运行结果
 
